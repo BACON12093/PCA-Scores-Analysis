@@ -1,4 +1,3 @@
-# PCA-Scores-Analysis
 # Principal Component Analysis (PCA) on Score Dataset
 
 This Python script performs Principal Component Analysis (PCA) on a dataset of numerical scores stored in a text file (`scores`). PCA is a widely used dimensionality reduction technique that helps identify the directions (principal components) along which the data varies the most. This project implements PCA from scratch using fundamental linear algebra tools provided by NumPy and SciPy, and visualizes the results with Matplotlib.
